@@ -1,42 +1,58 @@
 <!DOCTYPE html>
-<html>
-<body>
+<html lang="en">
+
 <head>
   <link rel="stylesheet" href="limiteddays.css">
 </head>
 
-<section>
+<body>
   <style>
   @import url('https://fonts.googleapis.com/css2?family=Megrim&display=swap');
   </style>
   <title> L.Kun </title>
-  <div>
-  <center>
-  <h1 style="font-size:150px; color:#ffffff;">KUN HO LIM</h1>
-  <h1 id="myheader", style="color:#fff;">headers will go here</h1>
-  </center>
+
+<div id="main">
+  <div id="name">
+      <h1 style="font-size:150px; color:#ffffff;">KUN HO LIM</h1>
+
+    <div id="menu">
+      <h2 style="color:#ffffff"> <a href="https://example.com">Who are you? </a> | Blog | <a href="https://github.com/limiteddays">Github</a></h2>
+    </div>
+
   </div>
 
-  <!--<script>-->
-  <!--  var time = new Date().getHours();-->
-  <!--  if (time > 20) {-->
-  <!--    document.write("<body style=\"background-color:powderblue;\">");-->
-  <!--  }-->
 
-  <!--</script>-->
+  <div class="rotate" id="jobs">
+    <h1 id="myheader", style="color:#fff; font-size:50px;">headers will go here</h1>
+  </div>
 
-  <script>
-  var headers = ["Data Scientist", "Software Engineer", "Musician (Producer)", "UI/UX designer"];
-  var lastheader = -1;
 
-  function newHeader() {
-     if (++lastheader >= headers.length)
-       lastheader = 0;
-     document.getElementById("myheader").innerText = headers[lastheader];
-  }
-  newHeader();
-  setInterval(newHeader, 2000);
-  </script>
-</section>
+
+    <script>
+      var headers = ["Data Scientist", "Software Engineer", "Game Programmer", "Musician (Producer)", "UI/UX designer"];
+      var lastheader = -1;
+
+      function newHeader() {
+        if (++lastheader >= headers.length)
+          lastheader = 0;
+        document.getElementById("myheader").innerText = headers[lastheader];
+      }
+      newHeader();
+      setInterval(newHeader, 2000);
+    </script>
+
+  </div>
+
+
+
+<!--  <div id="who">-->
+<!--    <center>-->
+<!--      <h1 style="font-size:150px;"> okay so who are you </h1>-->
+<!--    </center>-->
+<!--  </div>-->
+
+
+</div>
+
 </body>
 </html>
