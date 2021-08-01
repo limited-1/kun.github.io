@@ -5,32 +5,38 @@
   <link rel="stylesheet" href="limiteddays.css">
 </head>
 
+<section>
+  <style>
+  @import url('https://fonts.googleapis.com/css2?family=Megrim&display=swap');
+  </style>
+  <title> L.Kun </title>
+  <div>
+  <center>
+  <h1 style="font-size:150px; color:#ffffff;">KUN HO LIM</h1>
+  <h1 id="myheader", style="color:#fff;">headers will go here</h1>
+  </center>
+  </div>
 
-<style>
-@import url('https://fonts.googleapis.com/css2?family=Megrim&display=swap');
-</style>
-<title> L.Kun </title>
-<div>
-<center>
-<h1 style="font-size:150px;">KUN HO LIM</h1>
-<h1 id="myheader", style="color:#ff6600;">headers will go here</h1>
-</center>
-</div>
+  <!--<script>-->
+  <!--  var time = new Date().getHours();-->
+  <!--  if (time > 20) {-->
+  <!--    document.write("<body style=\"background-color:powderblue;\">");-->
+  <!--  }-->
 
+  <!--</script>-->
 
-<script>
-var headers = ["Data Scientist", "Software Engineer", "Musician (Producer)", "UI/UX designer"];
-var lastheader = -1;
+  <script>
+  var headers = ["Data Scientist", "Software Engineer", "Musician (Producer)", "UI/UX designer"];
+  var lastheader = -1;
 
-function newHeader() {
-   if (++lastheader >= headers.length)
-     lastheader = 0;
-   document.getElementById("myheader").innerText = headers[lastheader];
-}
-
-newHeader();
-setInterval(newHeader, 2000);
-</script>
-
+  function newHeader() {
+     if (++lastheader >= headers.length)
+       lastheader = 0;
+     document.getElementById("myheader").innerText = headers[lastheader];
+  }
+  newHeader();
+  setInterval(newHeader, 2000);
+  </script>
+</section>
 </body>
 </html>
