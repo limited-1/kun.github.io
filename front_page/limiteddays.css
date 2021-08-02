@@ -1,0 +1,94 @@
+
+#name {
+    position:absolute;
+    height: 200px;
+    width: 400px;
+
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    margin-top:  -300px;
+    margin-left: -200px;
+}
+
+body, h2, h3, h4, h5, h6 {
+    font-family: 'Megrim', cursive;
+}
+
+#menu {
+    margin-top: 20px;
+    margin-left: 15px;
+}
+
+h1 {
+    margin: 0
+}
+
+html {
+    scroll-behavior: smooth;
+
+}
+
+#jobs{
+    position:absolute;
+    height: 1000px;
+    width: 1000px;
+
+    position: fixed;
+    top: -5%;
+    left: 50%;
+    margin-top:  -270px;
+    margin-left: -300px;
+}
+
+
+
+
+
+body {
+    background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+    background-size: 400% 400%;
+    animation: gradient 15s ease infinite;
+}
+
+@keyframes gradient {
+    0% {
+        background-position: 0% 50%;
+    }
+    50% {
+        background-position: 100% 50%;
+    }
+    100% {
+        background-position: 0% 50%;
+    }
+}
+
+a {
+    color: inherit; /* blue colors for links too */
+    text-decoration: inherit; /* no underline */
+}
+
+
+.rotate {
+
+    transform: rotate(-90deg);
+
+
+    /* Legacy vendor prefixes that you probably don't need... */
+
+    /* Safari */
+    -webkit-transform: rotate(-90deg);
+
+    /* Firefox */
+    -moz-transform: rotate(-90deg);
+
+    /* IE */
+    -ms-transform: rotate(-90deg);
+
+    /* Opera */
+    -o-transform: rotate(-90deg);
+
+    /* Internet Explorer */
+    filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=3);
+
+}
