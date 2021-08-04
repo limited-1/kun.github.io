@@ -2,24 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e3eb320d-b451-4bd5-af72-0be3f50c2581" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/front_page/front_page.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_page/limiteddays.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2015-02-28-test-markdown.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2016-01-01-another-test-markdown.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2016-05-19-super-short-article.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2016-05-20-super-long-article.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2016-08-12-my-example-post.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017-05-20-this-post-demonstrates-post-content-styles.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017-06-10-quick-mardown-example.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017-12-04-plantuml-example.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017-12-08-mermaid-example.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017-12-15-table-example.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017-12-18-video-example.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-05-26-mathjax-test.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-12-05-an-exhibit-of-markdown.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-12-07-welcome-to-jekyll.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +54,7 @@
       <workItem from="1627910213603" duration="51000" />
       <workItem from="1627910287866" duration="3799000" />
       <workItem from="1628056342835" duration="10000" />
-      <workItem from="1628056379158" duration="5453000" />
+      <workItem from="1628056379158" duration="5621000" />
     </task>
     <servers />
   </component>
