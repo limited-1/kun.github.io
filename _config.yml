@@ -153,8 +153,8 @@ yat:
 # Page default value
 # defaults:
 #   home:
-#     heading: "Your awesome heading"
-#     subheading: "Your awesome subheading"
+#     heading: "문학적 프로그래머 (Literatical Programmer)"
+#     subheading: "Data scientist who makes Anime Game and Music"
 #     banner: "Your image url"
 
 # Banner default settings
