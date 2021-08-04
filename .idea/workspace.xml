@@ -75,7 +75,14 @@
       <option name="project" value="LOCAL" />
       <updated>1628069426086</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="adding 좀랜드R">
+      <created>1628069767698</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1628069767698</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -86,6 +93,7 @@
     <MESSAGE value="adding 전파녀와 청춘남 리뷰" />
     <MESSAGE value="adding 이세계 식당 리뷰" />
     <MESSAGE value="adding 청춘돼지" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding 청춘돼지" />
+    <MESSAGE value="adding 좀랜드R" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding 좀랜드R" />
   </component>
 </project>
