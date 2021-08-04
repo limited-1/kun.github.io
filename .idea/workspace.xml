@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e3eb320d-b451-4bd5-af72-0be3f50c2581" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/_data/defaults.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/defaults.yml" afterDir="false" />
+    <list default="true" id="e3eb320d-b451-4bd5-af72-0be3f50c2581" name="Default Changelist" comment="adding 전파녀와 청춘남 리뷰">
+      <change afterPath="$PROJECT_DIR$/_posts/2019-04-25-전파녀-청춘남-리뷰.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +55,7 @@
       <workItem from="1627910213603" duration="51000" />
       <workItem from="1627910287866" duration="3799000" />
       <workItem from="1628056342835" duration="10000" />
-      <workItem from="1628056379158" duration="5933000" />
+      <workItem from="1628056379158" duration="7624000" />
     </task>
     <servers />
   </component>
@@ -63,5 +64,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="adding 전파녀와 청춘남 리뷰" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding 전파녀와 청춘남 리뷰" />
   </component>
 </project>
