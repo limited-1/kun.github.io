@@ -3,6 +3,16 @@
   <component name="ChangeListManager">
     <list default="true" id="e3eb320d-b451-4bd5-af72-0be3f50c2581" name="Default Changelist" comment="adding 노라가미">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-05-12-코바야시-메이드래곤.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-05-12-코바야시-메이드래곤.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-05-23-이세계식당.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-05-23-이세계식당.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-06-01-청춘돼지.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-06-01-청춘돼지.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2021-03-24-서피스북주어오다.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-03-24-서피스북주어오다.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2021-04-22-좀랜드R.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-04-22-좀랜드R.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2021-05-28-galaxybuds.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-05-28-galaxybuds.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2021-06-13-노라가미.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-06-13-노라가미.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2021-06-18-arcmouse.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-06-18-arcmouse.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2021-06-25-스네키.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-06-25-스네키.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2021-07-08-서피스북2.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-07-08-서피스북2.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +47,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -55,6 +65,9 @@
       <workItem from="1627910287866" duration="3799000" />
       <workItem from="1628056342835" duration="10000" />
       <workItem from="1628056379158" duration="8765000" />
+      <workItem from="1628139486544" duration="647000" />
+      <workItem from="1628233785408" duration="39000" />
+      <workItem from="1628233843625" duration="1229000" />
     </task>
     <task id="LOCAL-00001" summary="adding 전파녀와 청춘남 리뷰">
       <created>1628067448124</created>
