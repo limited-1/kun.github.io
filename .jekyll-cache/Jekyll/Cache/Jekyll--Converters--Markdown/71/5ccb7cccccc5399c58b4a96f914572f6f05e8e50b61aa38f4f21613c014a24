@@ -126,7 +126,7 @@ Here is a <strong>capture block</strong>.</p>
 </pre></td></tr></tbody></table></code></pre></figure>
 
 <div class="language-cpp highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kt">void</span> <span class="nf">insert</span><span class="p">(</span><span class="k">const</span> <span class="kt">char</span><span class="o">*</span> <span class="n">key</span><span class="p">)</span> <span class="p">{</span>
-    <span class="k">if</span> <span class="p">(</span><span class="o">*</span><span class="n">key</span> <span class="o">==</span> <span class="err">'</span><span class="o">&lt;!</span><span class="n">JEKYLL</span><span class="err">@</span><span class="mi">3740</span><span class="err">@</span><span class="mi">1</span><span class="o">&gt;</span><span class="err">'</span><span class="p">)</span> <span class="p">{</span>
+    <span class="k">if</span> <span class="p">(</span><span class="o">*</span><span class="n">key</span> <span class="o">==</span> <span class="err">'</span><span class="o">&lt;!</span><span class="n">JEKYLL</span><span class="err">@</span><span class="mi">3760</span><span class="err">@</span><span class="mi">1</span><span class="o">&gt;</span><span class="err">'</span><span class="p">)</span> <span class="p">{</span>
         <span class="n">finish</span> <span class="o">=</span> <span class="nb">true</span><span class="p">;</span>
     <span class="p">}</span> <span class="k">else</span> <span class="p">{</span>
         <span class="kt">int</span> <span class="n">idx</span> <span class="o">=</span> <span class="o">*</span><span class="n">key</span> <span class="o">-</span> <span class="sc">'A'</span><span class="p">;</span>
